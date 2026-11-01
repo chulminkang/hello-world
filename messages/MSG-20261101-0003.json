@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "experiment_id": "CHAT-PR-MESSAGE-20261101",
+  "message_id": "MSG-20261101-0003",
+  "sender": "메시지 센더 챗",
+  "recipient": "receiver-a",
+  "message_type": "TEST",
+  "in_reply_to": null,
+  "payload": {
+    "subject": "A 대상 필터링 테스트",
+    "text": "receiver-a를 위한 메시지입니다. 사과 세 개를 바구니에 담았습니다.",
+    "verification_code": "A-2749"
+  }
+}
