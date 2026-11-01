@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "experiment_id": "CHAT-PR-MESSAGE-20261101",
+  "message_id": "MSG-20261101-0005",
+  "sender": "메시지 센더 챗",
+  "recipient": "receiver-c",
+  "message_type": "TEST",
+  "in_reply_to": null,
+  "payload": {
+    "subject": "C 대상 필터링 테스트",
+    "text": "receiver-c를 위한 메시지입니다. 달빛 아래 노란 우산을 펼쳤습니다.",
+    "verification_code": "C-9052"
+  }
+}
