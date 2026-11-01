@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "experiment_id": "CHAT-PR-MESSAGE-20261101",
+  "message_id": "MSG-20261102-0007",
+  "sender": "메시지 센더 챗",
+  "recipient": "receiver-b",
+  "message_type": "TEST",
+  "in_reply_to": null,
+  "payload": {
+    "subject": "추가 라벨별 메시지 전달 테스트",
+    "text": "초록 우체통 안에는 보라색 별을 그린 엽서 일곱 장이 들어 있습니다.",
+    "verification_code": "B-3927"
+  }
+}
