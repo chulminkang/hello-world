@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "experiment_id": "CHAT-PR-MESSAGE-20261101",
+  "message_id": "MSG-20261101-0002",
+  "sender": "메시지 센더 챗",
+  "recipient": "메시지 리시버 챗",
+  "message_type": "TEST",
+  "in_reply_to": null,
+  "payload": {
+    "subject": "두 번째 메시지 — 구조와 줄바꿈 전달 확인",
+    "text": "첫 번째 줄: 서로 다른 챗 사이의 메시지 전달 실험입니다.\n두 번째 줄: 이 메시지는 첫 번째 메시지와 구별되어야 합니다.\n세 번째 줄: 아래 구조화된 데이터도 함께 확인합니다.",
+    "test_data": {
+      "integer": 42,
+      "decimal": 3.14,
+      "boolean": true,
+      "array": [
+        "한글",
+        "English",
+        "12345"
+      ],
+      "empty_value": null
+    },
+    "verification_code": "SENDER-5826",
+    "expected_result": "메시지 ID, 줄바꿈, 데이터 자료형 및 검증 코드를 포함한 JSON 전문 공개"
+  }
+}
